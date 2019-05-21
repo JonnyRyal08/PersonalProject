@@ -51,6 +51,7 @@ Self - learning Rasberry PI and Python.
 Establish Timelines:
 
 Week 1 - Pesearch all tools, parts, and code needed for project.
+
   Time Spent: 
   2hrs  Researching projects
   1hr   Researching purchasing PI and parts for project
@@ -66,6 +67,7 @@ Week 1 - Pesearch all tools, parts, and code needed for project.
     
 
 Week 2 - Purchase all neccessary parts and start learning Python.
+
   Time Spent:
   1hr   Researched different manufactures and purchased more parts for Line Following Robot.
   1hr   Practice simple projects on Rasberry PI 
@@ -73,21 +75,25 @@ Week 2 - Purchase all neccessary parts and start learning Python.
   Lessons Learned:
 
 Week 3 - Start assembly of robot. Continue to program software for robot.
+
   Time Spent:
   
   Lessons Learned:
 
 Week 4 - Incorporate and start testing of robot.
+
   Time Spent:
   
   Lessons Learned:
 
 Week 5 - Debug and fine tune robot.
+
   Time Spent:
   
   Lessons Learned:
 
 Week 6 - Present robot to class.
+
   Time Spent:
   
   Lessons Learned:
