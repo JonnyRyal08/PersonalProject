@@ -20,23 +20,23 @@ Need to use Rasberry PI as a platform for personal project.
 
 Define Success Criteria:
 
-Obtain Rasberry PI - Done
-Configure and get Rasberry PI working - IW
-  download and install OS for PI - Done
-  flash SD card with OS - IW
-  Get PI OS installed and working - 
-Obtain Robot parts list. - IW.
-Assemble Robot - 
-Program Line following software - 
-Incorporate software and hardware - 
+- Obtain Rasberry PI - Done
+- Configure and get Rasberry PI working - IW
+- Download and install OS for PI - Done
+- Flash SD card with OS - IW
+- Get PI OS installed and working - 
+- Obtain Robot parts list. - IW.
+- Assemble Robot - 
+- Program Line following software - 
+- Incorporate software and hardware - 
 
 Determine Constraints:
 
-Need to get all required parts. - Amazon
-Need to buy Rasberry PI. - Done.
-Need to configure Rasberry PI. - IW.
-Need to learn Python. - Udemy - 
-Time line - 6 weeks
+- Need to get all required parts. - Amazon
+- Need to buy Rasberry PI. - Done.
+- Need to configure Rasberry PI. - IW.
+- Need to learn Python. - Udemy - 
+- Time line - 6 weeks
 
 Articulating Assumptions:
 
@@ -53,24 +53,26 @@ Establish Timelines:
 Week 1 - Pesearch all tools, parts, and code needed for project.
 
   Time Spent: 
-  2hrs  Researching projects
-  1hr   Researching purchasing PI and parts for project
-  2hrs  Downloading and installing software on Rasberry PI
-  1hr   Watching tutorials
-  1hr   Practicing Python
+  
+  - 2hrs  Researching projects
+  - 1hr   Researching purchasing PI and parts for project
+  - 2hrs  Downloading and installing software on Rasberry PI
+  - 1hr   Watching tutorials
+  - 1hr   Practicing Python
   
   Lessons learned:
-  Learned advantages and disadvantages of Rasberry PI vs Arduino DUO
-  Learned about setting up Rasberry PI
-  Learned how to control single LED with Python on the PI
+  - Learned advantages and disadvantages of Rasberry PI vs Arduino DUO
+  - Learned about setting up Rasberry PI
+  - Learned how to control single LED with Python on the PI
   
     
 
 Week 2 - Purchase all neccessary parts and start learning Python.
 
   Time Spent:
-  1hr   Researched different manufactures and purchased more parts for Line Following Robot.
-  1hr   Practice simple projects on Rasberry PI 
+  
+  - 1hr   Researched different manufactures and purchased more parts for Line Following Robot.
+  - 1hr   Practice simple projects on Rasberry PI 
   
   Lessons Learned:
 
