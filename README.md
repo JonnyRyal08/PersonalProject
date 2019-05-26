@@ -63,9 +63,7 @@ Week 1 - Pesearch all tools, parts, and code needed for project.
   Lessons learned:
   - Learned advantages and disadvantages of Rasberry PI vs Arduino DUO
   - Learned about setting up Rasberry PI
-  - Learned how to control single LED with Python on the PI
-  
-    
+  - Learned how to control single LED with Python on the PI    
 
 Week 2 - Purchase all neccessary parts and start learning Python.
 
@@ -73,8 +71,13 @@ Week 2 - Purchase all neccessary parts and start learning Python.
   
   - 1hr   Researched different manufactures and purchased more parts for Line Following Robot.
   - 1hr   Practice simple projects on Rasberry PI 
+  - 2hr   Assembled robot with Rasberry PI and installed all sensors for project
+  - 1hr   Researched required code to program bot. Found projects on https://projects.raspberrypi.org/en/projects/?interests[]=robotics to assist in developing code for bot.
   
   Lessons Learned:
+  
+  - Learned about assembly of PI board along with driver cards as well as interaction with Python to control specific features.
+  
 
 Week 3 - Start assembly of robot. Continue to program software for robot.
 
