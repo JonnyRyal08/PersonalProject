@@ -82,6 +82,8 @@ Week 2 - Purchase all neccessary parts and start learning Python.
 Week 3 - Start assembly of robot. Continue to program software for robot.
 
   Time Spent:
+  - 1hr worked through GPIO tutorial. Code added in PersonalProject/gpioControl
+  
   
   Lessons Learned:
 
