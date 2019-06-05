@@ -85,7 +85,9 @@ Week 3 - Start assembly of robot. Continue to program software for robot.
   - 1hr worked through GPIO tutorial. Code added in PersonalProject/gpioControl
   
   
+  
   Lessons Learned:
+  - Learned how to control on and off outputs and timing controls.
 
 Week 4 - Incorporate and start testing of robot.
 
