@@ -84,14 +84,15 @@ Week 3 - Start assembly of robot. Continue to program software for robot.
   Time Spent:
   - 1hr worked through GPIO tutorial. Code added in PersonalProject/gpioControl
   
-  
-  
   Lessons Learned:
   - Learned how to control on and off outputs and timing controls.
 
 Week 4 - Incorporate and start testing of robot.
 
-  Time Spent:
+  Time Spent: 
+  - 30min - installed and configured PyCharm
+  - 1hr - Coursera - Programming for Everybody (Getting Started with Python 
+  - 
   
   Lessons Learned:
 
