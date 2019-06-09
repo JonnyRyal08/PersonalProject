@@ -91,8 +91,8 @@ Week 4 - Incorporate and start testing of robot.
 
   Time Spent: 
   - 1hr - installed and configured PyCharm, attempted to connect Github
-  - 1hr - Coursera - Programming for Everybody (Getting Started with Python
-    downloaded book Python for Everybody.
+  - 1hr - View online content from Coursera - Programming for Everybody 
+    (Getting Started with Python) downloaded book: Python for Everybody.pdf
   - 1hr - reading Programming for Everybody pdf
   
   Lessons Learned:
