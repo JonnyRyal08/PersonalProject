@@ -90,8 +90,9 @@ Week 3 - Start assembly of robot. Continue to program software for robot.
 Week 4 - Incorporate and start testing of robot.
 
   Time Spent: 
-  - 30min - installed and configured PyCharm
-  - 1hr - Coursera - Programming for Everybody (Getting Started with Python 
+  - 1hr - installed and configured PyCharm, attempted to connect Github
+  - 1hr - Coursera - Programming for Everybody (Getting Started with Python
+    downloaded book Python for Everybody.
   - 
   
   Lessons Learned:
