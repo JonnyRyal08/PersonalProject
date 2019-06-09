@@ -93,9 +93,12 @@ Week 4 - Incorporate and start testing of robot.
   - 1hr - installed and configured PyCharm, attempted to connect Github
   - 1hr - Coursera - Programming for Everybody (Getting Started with Python
     downloaded book Python for Everybody.
-  - 
+  - 1hr - reading Programming for Everybody pdf
   
   Lessons Learned:
+  - Python language created by Guido van Rossum
+  - Python supports Functional, Imperative, Object-oriented, and Procedural styles
+  - How to access PI via SSH and IP address through terminal
 
 Week 5 - Debug and fine tune robot.
 
