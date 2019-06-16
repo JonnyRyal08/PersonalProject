@@ -100,11 +100,13 @@ Week 4 - Incorporate and start testing of robot.
   - Python supports Functional, Imperative, Object-oriented, and Procedural styles
   - How to access PI via SSH and IP address through terminal
 
-Week 5 - Debug and fine tune robot.
+Week 5 - Write code for robot.
 
   Time Spent:
+  1hr - Coursera - programming for Everybody
   
   Lessons Learned:
+  - How to find files with Terminal and run from terminal. 
 
 Week 6 - Present robot to class.
 
