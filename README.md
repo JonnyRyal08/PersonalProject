@@ -100,13 +100,16 @@ Week 4 - Incorporate and start testing of robot.
   - Python supports Functional, Imperative, Object-oriented, and Procedural styles
   - How to access PI via SSH and IP address through terminal
 
-Week 5 - Write code for robot.
+Week 5 - Write code for robot/ explore remote display over wifi .
 
   Time Spent:
-  1hr - Coursera - programming for Everybody
+  2hr - Coursera - programming for Everybody
+  1hr - Set up ssh, vnc, external display for raspberry Pi to have tablet as display
   
   Lessons Learned:
-  - How to find files with Terminal and run from terminal. 
+  - How to find files with Terminal and run from terminal.
+  - Learned how to use ssh terminal via tablet to connect remotely and update Pi
+  - Learned how to use vnc to connect wireless display over wifi on tablet
 
 Week 6 - Present robot to class.
 
